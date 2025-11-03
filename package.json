@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": { "start": "node index.js", "test": "echo \"Error: no test specified\" && exit 1" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inoasa810/my-first-repo.git"
@@ -22,3 +20,4 @@
     "express": "^5.1.0"
   }
 }
+
