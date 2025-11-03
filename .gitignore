@@ -140,3 +140,6 @@ vite.config.ts.timestamp-*
 node-v24.11.0-x64 (1).msi
 firebase-debug.log
 node_modules
+
+node_modules
+db.json
